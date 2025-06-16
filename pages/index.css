@@ -185,10 +185,10 @@
   background-position: center;
 }
 .reservation__title {
-  margin-top: 100px;
+  margin: 0 auto;
+  padding-top: 100px;
   margin-bottom: 80px;
   max-width: 580px;
-  margin: 0 auto;
   text-align: center;
   font-family: inter;
   font-style: normal;
